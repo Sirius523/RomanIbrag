@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-size: 22px;
+    background: linear-gradient(#f07c6b, #09b4ac) fixed;
+}
+div {
+ width: 70%; 
+ margin: auto; 
+ min-height: 2000px; 
+ background: #fff; 
+ } 
+ li{
+     list-style-type: none;
+     display: inline;
+     padding-right: 5px;
+ }
+ a{
+     text-decoration: none;
+ }
